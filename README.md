@@ -11,7 +11,7 @@ A custom slack integration to send the Merriam Webster Word of the Day to a Slac
    App Name: Word of the Day
    Short Description: Merriam-Webster's Word of the Day
    + Add App Icon (`mw.png` in this repo is a good one)
-   Background Color: #2d5f7c
+   Background Color: `#2d5f7c`
    Save Changes
 3. oAuth & Permissions: Bot Token Scope: chat:write
 4. Install to WordSpace > Allow
