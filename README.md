@@ -4,7 +4,7 @@ A custom slack integration to send the Merriam Webster Word of the Day to a Slac
 
 ## Setting Up Slack
 
-1. Go to [your apps](https://api.slack.com/apps/) and create a new app from scratch
+1. Go to [your Slack apps](https://api.slack.com/apps/) and create a new app from scratch
    * App Name: Word of the Day (or whatever you choose)
    * Pick a workspace to develop your app in: Whatever slack organization this app should work
 2. Scroll down to Display Information
